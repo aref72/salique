@@ -12,11 +12,12 @@ a.prev:hover,a.next:hover { background-color:#0E8FAB;}
 .wrapaction { border-left: #0E8FAB 3px solid;background:#fff;}
 .actionbutton { background-color:#0E8FAB;}
 .stresstitle { border-bottom:#0E8FAB 1px solid;}
-.undermenuarea {	background: #0E8FAB url(../images/pat.png) repeat;}
+.undermenuarea {	background: #0E8FAB url(../images/noise.png) repeat;}
 .noshadowbox {background:#fff;}
-a.expandAll, .progressdefault {background: #0E8FAB;}
+.progressdefault {background: #0E8FAB;}
 .simplebox {border-left: 1px solid #0E8FAB;}
 .simpleboxicon {color: #0E8FAB;}
 .colorme { color:#0E8FAB;}
 .buttonprice {background: #0E8FAB;color:#fff;border:0px;}
+a.expandAll {background: #0E8FAB;}
 .wrapactiondefault {border-left: #0E8FAB 2px solid;}

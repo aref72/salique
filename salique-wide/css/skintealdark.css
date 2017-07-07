@@ -12,9 +12,9 @@ a.prev:hover,a.next:hover { background-color:#008782;}
 .wrapaction { border-left: #008782 3px solid;background:#fff;}
 .actionbutton { background-color:#008782;}
 .stresstitle { border-bottom:#008782 1px solid;}
-.undermenuarea {	background: #008782 url(../images/pat.png) repeat;}
+.undermenuarea {	background: #008782 url(../images/noise.png) repeat;}
 .noshadowbox {background:#fff;}
-a.expandAll, .progressdefault {background: #008782;}
+.progressdefault {background: #008782;}
 .simplebox {border-left: 1px solid #008782;}
 .simpleboxicon {color: #008782;}
 .colorme { color:#008782;}

@@ -1,14 +1,12 @@
 .selectnav { display: none; }
 .showmobile {display:none;}
-
 @media screen and (max-width: 1024px) {
 .grid {padding:0px;}
 }
 /* small screen */
 @media screen and (max-width: 800px) {
 .js #responsivemenu { display: none; }
-.js .selectnav { display: block;background: #333;color: #fff; font-size:15px;border: 1px solid #333;border-radius: 0px;max-width: 100%;margin-left: -10px;}
-nav {float:none;}
+.js .selectnav { display: block;background: #333;color: #fff;font-size: 15px;border: 1px solid #333;border-radius: 0px;max-width: 100%;margin-left: 0px;height: 45px;padding-left: 20px;}
 .rightareaheader {float:none;}
 .showmobile {display:block;}
 .rightareaheader {padding-bottom:0px;}
@@ -43,7 +41,7 @@ dl.timelineMinor {margin:0!important;padding:0!important;width:100%;}
 .timelineMinor dt {white-space:normal;background:none;}
 a.expandAll {padding: 10px;}
 #pricing-table .plan {width:100%;}
-.mosaicover2col {height: 185px;} 
+.mosaicover2col {height: 185px;}
 .boxcontainer2col {height: 280px;}
 .boxtwocolumns {height:280px;}
 }

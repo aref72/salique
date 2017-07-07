@@ -10,10 +10,9 @@ a.prev:hover,a.next:hover { background-color:#66cdaa;}
 .serviceicon { background-color:#66cdaa;}
 .subtitle { border-bottom:#66cdaa 1px solid;}
 .wrapaction { border-left: #66cdaa 3px solid;background:#fff;}
-.wrapactiondefault {border-left: #66cdaa 2px solid;}
 .actionbutton { background-color:#66cdaa;}
 .stresstitle { border-bottom:#66cdaa 1px solid;}
-.undermenuarea {	background: #66cdaa url(../images/pat.png) repeat;}
+.undermenuarea {	background: #66cdaa url(../images/noise.png) repeat;}
 .noshadowbox {background:#fff;}
 .progressdefault {background: #66cdaa;}
 .simplebox {border-left: 1px solid #66cdaa;}
@@ -21,3 +20,4 @@ a.prev:hover,a.next:hover { background-color:#66cdaa;}
 .colorme { color:#66cdaa;}
 .buttonprice {background: #66cdaa;color:#fff;border:0px;}
 a.expandAll {background: #66cdaa;}
+.wrapactiondefault {border-left: #66cdaa 2px solid;}
